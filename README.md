@@ -2,4 +2,8 @@
 
 The archived fuzzers ATM are:
 
-+ Superion https://github.com/Fuzzers-Archive/Superion
+Name | Date | URL 
+-----|------|----
+Superion | Tuesday January 7, 2020 | https://github.com/Fuzzers-Archive/Superion
+TriforceAFL | Tuesday January 7, 2020 | https://github.com/Fuzzers-Archive/TriforceAFL
+afl-network | Tuesday January 7, 2020 | https://github.com/Fuzzers-Archive/afl-network
